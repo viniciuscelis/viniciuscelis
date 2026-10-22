@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**viniciuscelis/viniciuscelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0D1117&text=VINICIUS%20DE%20CELIS&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+## TECH STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### LINGUAGENS
+
+<img src="https://skillicons.dev/icons?i=python,html,css,php,md" />
+
+<br>
+
+### FERRAMENTAS E TECNOLOGIAS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postgresql" />
+
+</div>
+
+---
