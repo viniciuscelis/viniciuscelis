@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0D1117&text=VINICIUS%20DE%20CELIS&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=hex&section=header&reversal=true&text=VINICIUS+DE+CELIS&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&desc=ESTUDANTE+%7C+PROGRAMADOR&descSize=15&descAlign=50&descAlignY=66" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=viniciuscelis&style=flat-square&color=161B22&label=VISUALIZAÇÕES+DE+PERFIL" />
 
